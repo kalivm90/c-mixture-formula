@@ -1,1 +1,10 @@
-out
+# Ignore .o files
+*.o
+
+# Ignore binary
+bin/
+
+# Ignore any temp files
+*.dSYM 
+*.swp
+*.bak
